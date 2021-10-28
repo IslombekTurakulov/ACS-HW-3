@@ -1,0 +1,23 @@
+Running functional.txt
+Memory: 2600 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+functional.txt Test 1 done
+
+Running object_oriented.txt
+Memory: 2756 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+object_oriented Test 2 done
+
+Running procedural.txt
+Memory: 2612 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+procedural.txt Test 3 done
+
+Running mixed.txt
+Memory: 4700 KB
+User time: 0.25 s
+Kernel time: 0.00 s
+mixed.txt Test 12 done
