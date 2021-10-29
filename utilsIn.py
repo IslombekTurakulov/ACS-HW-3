@@ -1,4 +1,6 @@
 import random
+import string
+
 from functional import Functional
 from objectOriented import ObjectOriented
 from procedural import Procedural
@@ -14,8 +16,8 @@ def inLines(container, str_array):
     i = 0  # Индекс, задающий текущую строку в массиве
     fig_num = 0
     while i < array_len:
-        str = str_array[i]
-        key = int(str)  # преобразование в целое
+        line = str_array[i]
+        key = int(line)  # преобразование в целое
         # print("key = ", key)
         if key == 1:  # признак прямоугольника
             i += 1
@@ -42,6 +44,10 @@ def inLines(container, str_array):
 
 
 def inRnd():
+    """
+    Выбор случайного сгенерированного объекта
+    :return: Объект базового класса Language
+    """
     key = random.randrange(1, 4)
     if key == 1:  # признак функциональности
         language = Functional()
@@ -58,15 +64,11 @@ def inRnd():
 
 
 def rndString(length_str):
-    result = ""
-    letters = [
-        "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C",
-        "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P",
-        "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "a", "b", "c",
-        "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p",
-        "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
-    i = 0
-    while i < length_str:
-        result += letters[random.randrange(1, 60)]
-        i += 1
+    """
+    Рандомизация случайных букв
+    :param length_str: длина строки
+    :return: случайная строка
+    """
+    letters = string.ascii_uppercase + string.ascii_lowercase
+    result = ''.join(random.choice(letters) for i in range(length_str))
     return result

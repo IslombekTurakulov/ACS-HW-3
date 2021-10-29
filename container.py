@@ -7,13 +7,20 @@ class Container:
     def __init__(self):
         self.store = []
 
-    def staticIn(self, size):
+    def staticRndIn(self, size):
+        """
+        Добавление случайного объекта в self.store
+        :param size: количество объектов
+        """
         i = 0
         while i < size:
             self.store.append(utilsIn.inRnd())
             i += 1
 
     def print(self):
+        """
+        Вывод информации о контейнере
+        """
         print("Container is store", len(self.store), "languages:")
         for language in self.store:
             language.print()
@@ -24,6 +31,10 @@ class Container:
         pass
 
     def write(self, stream):
+        """
+        Запись информации с контейнера
+        :param stream: поток
+        """
         stream.write("Container is store {} languages:\n".format(len(self.store)))
         for shape in self.store:
             shape.write(stream)
@@ -32,18 +43,10 @@ class Container:
         pass
 
     def sort(self):
-        i = 0
-        for first_element in self.store:
-            min_index = i
-            j = i
-            for second_element in self.store:
-                if j + 1 != len(self.store):
-                    if round(first_element.quotient(), 2) < round(second_element.quotient(), 2):
-                        min_index = j
-                else:
-                    continue
-                j += 1
-            tmp = self.store[i]
-            self.store[i] = self.store[j]
-            self.store[j] = tmp
-            i += 1
+        """
+        Сортировка
+        """
+        for i in range(len(self.store) - 1):
+            for j in range(len(self.store) - i - 1):
+                if self.store[j].quotient() > self.store[j + 1].quotient():
+                    self.store[j], self.store[j + 1] = self.store[j + 1], self.store[j]
