@@ -42,5 +42,5 @@ class Procedural(Languages):
         pass
 
     def quotient(self):
-        return float(self.year) / len(self.name)
+        return float(self.year) / float(len(self.name))
         pass
