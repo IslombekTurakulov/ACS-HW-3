@@ -1,0 +1,8 @@
+Container is store 6 languages:
+[Procedural]: name = sdfsd  year = 1996  popularity = 25.0 abstract variables = True, quotient = 399.2
+[Procedural]: name = reter  year = 2005  popularity = 52.0 abstract variables = False, quotient = 401.0
+[Procedural]: name = vbnbvn  year = 2352  popularity = 66.0 abstract variables = True, quotient = 392.0
+[Procedural]: name = hgjgh  year = 1996  popularity = 66.0 abstract variables = True, quotient = 399.2
+[Procedural]: name = ghfhgf  year = 1875  popularity = 65.0 abstract variables = False, quotient = 312.5
+[Procedural]: name = vcbvc  year = 2015  popularity = 76.0 abstract variables = False, quotient = 403.0
+

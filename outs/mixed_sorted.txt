@@ -1,0 +1,14 @@
+Container is store 12 languages:
+[ObjectOriented]: name = object_oriented1  year = 1980  popularity = 32.0 abstract variables = False legacy = SINGLE, quotient = 123.75
+[ObjectOriented]: name = object_oriented4  year = 1980  popularity = 34.0 abstract variables = False legacy = MULTIPLE, quotient = 123.75
+[ObjectOriented]: name = object_oriented3  year = 1990  popularity = 24.0 abstract variables = False legacy = MULTIPLE, quotient = 124.38
+[ObjectOriented]: name = object_oriented6  year = 1990  popularity = 22.0 abstract variables = True legacy = INTERFACE, quotient = 124.38
+[ObjectOriented]: name = object_oriented2  year = 1991  popularity = 23.0 abstract variables = True legacy = MULTIPLE, quotient = 124.44
+[ObjectOriented]: name = object_oriented5  year = 1991  popularity = 32.0 abstract variables = False legacy = SINGLE, quotient = 124.44
+[Functional]: name = Funclang1  year = 1924  popularity = 34.0 lazy calculation = True legacy = DYNAMIC, quotient = 213.78
+[Functional]: name = Funclang2  year = 1942  popularity = 53.0 lazy calculation = False legacy = DYNAMIC, quotient = 215.78
+[Procedural]: name = ProcLang3  year = 1951  popularity = 24.0 abstract variables = False, quotient = 216.78
+[Procedural]: name = ProcLang4  year = 1952  popularity = 41.0 abstract variables = True, quotient = 216.89
+[Functional]: name = FuncLang4  year = 1952  popularity = 44.0 lazy calculation = False legacy = DYNAMIC, quotient = 216.89
+[Functional]: name = FuncLang3  year = 1954  popularity = 55.0 lazy calculation = True legacy = DYNAMIC, quotient = 217.11
+

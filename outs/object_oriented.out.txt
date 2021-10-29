@@ -1,0 +1,8 @@
+Container is store 6 languages:
+[ObjectOriented]: name = dfgdfg  year = 1925  popularity = 35.0 abstract variables = True legacy = SINGLE, quotient = 320.83
+[ObjectOriented]: name = qweqw  year = 1999  popularity = 65.0 abstract variables = False legacy = MULTIPLE, quotient = 399.8
+[ObjectOriented]: name = werwer  year = 2006  popularity = 54.0 abstract variables = False legacy = INTERFACE, quotient = 334.33
+[ObjectOriented]: name = cxvxc  year = 2019  popularity = 96.0 abstract variables = True legacy = SINGLE, quotient = 403.8
+[ObjectOriented]: name = zxc  year = 2014  popularity = 24.0 abstract variables = False legacy = MULTIPLE, quotient = 671.33
+[ObjectOriented]: name = qwerty  year = 2005  popularity = 12.0 abstract variables = False legacy = SINGLE, quotient = 334.17
+

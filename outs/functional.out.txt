@@ -1,0 +1,7 @@
+Container is store 5 languages:
+[Functional]: name = asytryd  year = 1234  popularity = 14.0 lazy calculation = True legacy = DYNAMIC, quotient = 176.29
+[Functional]: name = ds  year = 435  popularity = 14.0 lazy calculation = True legacy = STRICT, quotient = 217.5
+[Functional]: name = gjf  year = 754  popularity = 14.0 lazy calculation = True legacy = DYNAMIC, quotient = 251.33
+[Functional]: name = dfgfd  year = 754  popularity = 14.0 lazy calculation = True legacy = DYNAMIC, quotient = 150.8
+[Functional]: name = fd43gdf  year = 3452  popularity = 100.0 lazy calculation = True legacy = STRICT, quotient = 493.14
+
