@@ -1,0 +1,31 @@
+Running functional.txt
+Memory: 5650 KB
+==> Start
+Source:  0.01555  seconds
+Sorted:  0.01555  seconds
+==> Finish
+functional.txt Test done
+
+Running object_oriented.txt
+Memory: 5729 KB
+==> Start
+Source:  0.001  seconds
+Sorted:  0.003  seconds
+==> Finish
+object_oriented Test done
+
+Running procedural.txt
+Memory: 6642 KB
+==> Start
+Source:  0.002  seconds
+Sorted:  0.003  seconds
+==> Finish
+procedural.txt Test done
+
+Running mixed.txt
+Memory: 9711 KB
+==> Start
+Source:  0.00484  seconds
+Sorted:  0.00584  seconds
+==> Finish
+mixed.txt Test done
