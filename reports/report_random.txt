@@ -1,0 +1,26 @@
+Random out10.txt
+==> Start
+Source:  0.002  seconds
+Sorted:  0.002  seconds
+==> Finish
+
+
+Random out100.txt
+==> Start
+Source:  0.005  seconds
+Sorted:  0.02299  seconds
+==> Finish
+
+
+Random out1000.txt
+==> Start
+Source:  0.03897  seconds
+Sorted:  1.9109  seconds
+==> Finish
+
+
+Random out10000.txt
+==> Start
+Source:  0.62364  seconds
+Sorted:  179.31611  seconds
+==> Finish
