@@ -1,13 +1,12 @@
 import sys
 import time
-
 # ----------------------------------------------
 from container import Container
 from utilsIn import inLines
 
 if __name__ == '__main__':
     start_time = time.time()
-    print(len(sys.argv), sys.argv)
+    print("Length: ", len(sys.argv), "\nIn: ", sys.argv)
     if len(sys.argv) != 5:
         print("incorrect command line!\n"
               "  Waited:\n"
@@ -18,7 +17,6 @@ if __name__ == '__main__':
     print('==> Start')
     # Создаём контейнер
     container = Container()
-
     if sys.argv[1] == "-f":
         # Чтение исходного файла, содержащего данные, разделенные пробелами и переводами строки
         inputFile = sys.argv[2]
