@@ -41,16 +41,19 @@ class ObjectOriented(languages.Languages):
         self.legacy = Legacy(random.randrange(1, 3))
 
     def print(self):
-        print("[ObjectOriented]: name = ", self.name, " year = ", self.year, " popularity = ", round(self.popularity, 2),
-              " abstract variables = ", self.has_abstract_variables, " legacy = ", self.legacy, "quotient = ", round(self.quotient(), 2))
+        print("[ObjectOriented]: name = ", self.name, " year = ", self.year, " popularity = ",
+              round(self.popularity, 2),
+              " abstract variables = ", self.has_abstract_variables, " legacy = ", self.legacy.name, "quotient = ",
+              round(self.quotient(), 2))
         pass
 
     def write(self, stream):
         stream.write(
             "[ObjectOriented]: name = {}  year = {}  popularity = {} abstract variables = {} legacy = {}, quotient = {}".format \
-                (self.name, self.year, round(self.popularity, 2), self.has_abstract_variables, self.legacy, round(self.quotient(), 2)))
+                (self.name, self.year, round(self.popularity, 2), self.has_abstract_variables, self.legacy,
+                 round(self.quotient(), 2)))
         pass
 
     def quotient(self):
-        return float(self.year) / len(self.name)
+        return float(self.year) / float(len(self.name))
         pass
