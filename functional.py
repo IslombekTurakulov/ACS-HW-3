@@ -40,7 +40,7 @@ class Functional(languages.Languages):
         self.name = str_line_array[i]
         self.year = int(str_line_array[i + 1])
         self.popularity = float(str_line_array[i + 2])
-        self.lazy_calculation = bool(str_line_array[i + 3])
+        self.lazy_calculation = int(str_line_array[i + 3]) == 0
         self.legacy = Legacy(int(str_line_array[i + 4]))
         i += 5
         return i

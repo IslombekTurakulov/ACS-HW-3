@@ -32,7 +32,7 @@ class Procedural(languages.Languages):
         self.name = str_line_array[i]
         self.year = int(str_line_array[i + 1])
         self.popularity = float(str_line_array[i + 2])
-        self.has_abstract_variables = bool(str_line_array[i + 3])
+        self.has_abstract_variables = int(str_line_array[i + 3]) == 0
         i += 4
         return i
 
