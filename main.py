@@ -31,13 +31,35 @@ if __name__ == '__main__':
         # Формирование массива строк, содержащего чистые данные в виде массива строк символов.
         strArray = inputLine.replace("\n", " ").split(" ")
         figNum = inLines(container, strArray)
-        container.print()
+        # container.print()
+        outfile = open(sys.argv[3], 'w+')
+        container.write(outfile)
+        outfile.close()
+        print("Sorted: ",
+              round(time.time() - start_time, 5), " seconds")
+        outfileSecond = open(sys.argv[4], 'w+')
+        container.sort()
+        container.write(outfileSecond)
+        outfileSecond.close()
+        print("Sorted: ",
+              round(time.time() - start_time, 5), " seconds")
     elif (sys.argv[1] == "-n"):
         length = int(sys.argv[2])
         if length < 1 or length > 10000:
             print("incorrect number of languages = {}. Set 0 < number <= 10000\n", length)
         container.staticIn(length)
-        container.print()
+        # container.print()
+        outfile = open(sys.argv[3], 'w+')
+        container.write(outfile)
+        outfile.close()
+        print("Source: ",
+              round(time.time() - start_time, 5), " seconds")
+        outfileSecond = open(sys.argv[4], 'w+')
+        container.sort()
+        container.write(outfileSecond)
+        print("Sorted: ",
+              round(time.time() - start_time, 5), " seconds")
+        outfileSecond.close()
     else:
         print("incorrect qualifier value!\n"
               "  Waited:\n"
@@ -45,13 +67,4 @@ if __name__ == '__main__':
               "  Or:\n"
               "     command -n number outfile01 outfile02\n");
         exit()
-
-    outfile = open(sys.argv[3], 'w+')
-    container.write(outfile)
-    outfile.close()
-    container = container.sort()
-    outfileSecond = open(sys.argv[4], 'w+')
-    container.write(outfileSecond)
-    outfileSecond.close()
-    print("Sorted: {} seconds", (time.time() - start_time))
     print('==> Finish')
