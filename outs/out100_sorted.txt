@@ -1,0 +1,102 @@
+Container is store 100 languages:
+[ObjectOriented]: name = of1SfQbrZJ  year = 1958  popularity = 25.83 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 195.8
+[ObjectOriented]: name = 3Ygh5OoAIs  year = 1994  popularity = 60.7 abstract variables = False legacy = Legacy.SINGLE, quotient = 199.4
+[ObjectOriented]: name = JLYmtdFiXH  year = 1999  popularity = 79.5 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 199.9
+[Procedural]: name = kFpapOnxMt  year = 2016  popularity = 72.67 abstract variables = True, quotient = 201.6
+[ObjectOriented]: name = asAZpk65o4  year = 2012  popularity = 72.8 abstract variables = False legacy = Legacy.SINGLE, quotient = 201.2
+[Functional]: name = VxAA7CIgbX  year = 1970  popularity = 64.24 lazy calculation = True legacy = STRICT, quotient = 197.0
+[Procedural]: name = nwNUcxwUe1  year = 1956  popularity = 91.43 abstract variables = False, quotient = 195.6
+[ObjectOriented]: name = EuKbohmiXr  year = 2017  popularity = 14.01 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 201.7
+[Procedural]: name = EKNdtCEcoU  year = 1966  popularity = 13.96 abstract variables = True, quotient = 196.6
+[Functional]: name = Q26vaYmM2L  year = 2009  popularity = 35.41 lazy calculation = True legacy = STRICT, quotient = 200.9
+[ObjectOriented]: name = wYkMXCPDdB  year = 1960  popularity = 68.53 abstract variables = True legacy = Legacy.SINGLE, quotient = 196.0
+[ObjectOriented]: name = ilptswMJmr  year = 1976  popularity = 57.85 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 197.6
+[Functional]: name = FU3ncX3Ldr  year = 1988  popularity = 7.91 lazy calculation = False legacy = STRICT, quotient = 198.8
+[Functional]: name = hYsf7PvB5k  year = 1988  popularity = 55.75 lazy calculation = False legacy = DYNAMIC, quotient = 198.8
+[ObjectOriented]: name = DlAs2SBTUu  year = 1954  popularity = 53.52 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 195.4
+[Procedural]: name = vLWwkS71f1  year = 1966  popularity = 51.45 abstract variables = True, quotient = 196.6
+[Procedural]: name = KtEtRVVwhQ  year = 1978  popularity = 46.32 abstract variables = False, quotient = 197.8
+[Functional]: name = di56Gdxbos  year = 1978  popularity = 85.59 lazy calculation = False legacy = DYNAMIC, quotient = 197.8
+[Functional]: name = vAOxwolDKK  year = 1973  popularity = 35.7 lazy calculation = False legacy = DYNAMIC, quotient = 197.3
+[Procedural]: name = vkRFmU3cnE  year = 2009  popularity = 49.72 abstract variables = False, quotient = 200.9
+[ObjectOriented]: name = f8ofHdJ5Qg  year = 1985  popularity = 52.08 abstract variables = True legacy = Legacy.SINGLE, quotient = 198.5
+[Procedural]: name = YBsD5Zx4xh  year = 1996  popularity = 66.05 abstract variables = False, quotient = 199.6
+[ObjectOriented]: name = UdQXrEZINu  year = 2007  popularity = 62.66 abstract variables = True legacy = Legacy.SINGLE, quotient = 200.7
+[Functional]: name = GjsJ3WrwIp  year = 2002  popularity = 85.03 lazy calculation = False legacy = DYNAMIC, quotient = 200.2
+[ObjectOriented]: name = gG2qlbPQBR  year = 1997  popularity = 60.82 abstract variables = False legacy = Legacy.SINGLE, quotient = 199.7
+[ObjectOriented]: name = xgI4SRN2G5  year = 1990  popularity = 96.4 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 199.0
+[Procedural]: name = 8Z1HG4cFoW  year = 2006  popularity = 3.27 abstract variables = False, quotient = 200.6
+[Functional]: name = P7qK9Gshpv  year = 1991  popularity = 84.54 lazy calculation = True legacy = DYNAMIC, quotient = 199.1
+[Procedural]: name = AtVYwZ4rTR  year = 2017  popularity = 88.44 abstract variables = False, quotient = 201.7
+[ObjectOriented]: name = uWnZm6Em3q  year = 1946  popularity = 59.37 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 194.6
+[Procedural]: name = mIMQC7OUrA  year = 1951  popularity = 28.86 abstract variables = False, quotient = 195.1
+[Functional]: name = 3T3pXc3aSt  year = 1959  popularity = 51.46 lazy calculation = False legacy = DYNAMIC, quotient = 195.9
+[Procedural]: name = 4gMvwZLUOF  year = 1966  popularity = 48.33 abstract variables = True, quotient = 196.6
+[Functional]: name = 4llx8Gsvbc  year = 2013  popularity = 91.13 lazy calculation = False legacy = DYNAMIC, quotient = 201.3
+[Functional]: name = S5rcG5bPUf  year = 1977  popularity = 73.98 lazy calculation = True legacy = STRICT, quotient = 197.7
+[Procedural]: name = hHnn98LNdC  year = 2017  popularity = 52.81 abstract variables = True, quotient = 201.7
+[Functional]: name = clBINeXQxL  year = 2009  popularity = 28.73 lazy calculation = False legacy = DYNAMIC, quotient = 200.9
+[Functional]: name = t6eEkDhpKk  year = 2001  popularity = 85.93 lazy calculation = False legacy = STRICT, quotient = 200.1
+[Procedural]: name = tRWoh8selG  year = 1960  popularity = 88.21 abstract variables = False, quotient = 196.0
+[Functional]: name = Z3cjbrceW4  year = 1977  popularity = 31.07 lazy calculation = False legacy = STRICT, quotient = 197.7
+[ObjectOriented]: name = jR7Ynw4JRD  year = 1951  popularity = 16.92 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 195.1
+[Procedural]: name = xABwExsf97  year = 1961  popularity = 58.51 abstract variables = True, quotient = 196.1
+[Functional]: name = SAlWxU76lI  year = 1970  popularity = 80.73 lazy calculation = False legacy = DYNAMIC, quotient = 197.0
+[ObjectOriented]: name = YqruD5htta  year = 1945  popularity = 70.45 abstract variables = False legacy = Legacy.SINGLE, quotient = 194.5
+[Procedural]: name = Z2bsOVJvRU  year = 1963  popularity = 47.69 abstract variables = False, quotient = 196.3
+[ObjectOriented]: name = NKiZfJDJ7s  year = 1998  popularity = 37.77 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 199.8
+[ObjectOriented]: name = TTWXeaPN6i  year = 1953  popularity = 78.95 abstract variables = True legacy = Legacy.SINGLE, quotient = 195.3
+[Functional]: name = OhuXtbFmxG  year = 2006  popularity = 50.03 lazy calculation = False legacy = STRICT, quotient = 200.6
+[Functional]: name = xj8hJmYmfY  year = 1980  popularity = 51.01 lazy calculation = True legacy = STRICT, quotient = 198.0
+[Procedural]: name = Mx4ik3MWA5  year = 2007  popularity = 66.52 abstract variables = True, quotient = 200.7
+[Functional]: name = ObNRXIBIVt  year = 1962  popularity = 91.17 lazy calculation = False legacy = DYNAMIC, quotient = 196.2
+[Functional]: name = fZmmkRQ7Ub  year = 1995  popularity = 8.86 lazy calculation = False legacy = STRICT, quotient = 199.5
+[ObjectOriented]: name = iZjHqMgFkp  year = 1993  popularity = 31.77 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 199.3
+[ObjectOriented]: name = XawW5LEEeC  year = 1977  popularity = 37.54 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 197.7
+[Procedural]: name = SHdoahWq2G  year = 2017  popularity = 71.4 abstract variables = False, quotient = 201.7
+[ObjectOriented]: name = KxPnH4r1dk  year = 1976  popularity = 51.7 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 197.6
+[ObjectOriented]: name = 5HptAbVFCO  year = 2004  popularity = 84.28 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 200.4
+[ObjectOriented]: name = aI8b8xtBul  year = 1981  popularity = 21.2 abstract variables = True legacy = Legacy.SINGLE, quotient = 198.1
+[Functional]: name = PcckDxx7du  year = 1985  popularity = 56.09 lazy calculation = True legacy = STRICT, quotient = 198.5
+[Procedural]: name = 1R728GL7ls  year = 2014  popularity = 36.26 abstract variables = True, quotient = 201.4
+[Procedural]: name = vI9SJXbcKf  year = 2003  popularity = 14.27 abstract variables = False, quotient = 200.3
+[Procedural]: name = mLpnaNH4JW  year = 2016  popularity = 34.15 abstract variables = True, quotient = 201.6
+[Functional]: name = 6ll6C69pbQ  year = 2016  popularity = 39.41 lazy calculation = True legacy = STRICT, quotient = 201.6
+[Procedural]: name = Pe7uoZ5hpE  year = 1978  popularity = 82.62 abstract variables = False, quotient = 197.8
+[Functional]: name = CduXiTTWHn  year = 1983  popularity = 74.42 lazy calculation = False legacy = DYNAMIC, quotient = 198.3
+[Procedural]: name = SIHTBDGWOa  year = 1955  popularity = 93.1 abstract variables = True, quotient = 195.5
+[Procedural]: name = RoS2PKV1F6  year = 1969  popularity = 39.83 abstract variables = True, quotient = 196.9
+[Procedural]: name = wdY3gJXwoR  year = 1958  popularity = 85.54 abstract variables = False, quotient = 195.8
+[Functional]: name = ahuUqEGWBJ  year = 2020  popularity = 94.89 lazy calculation = False legacy = DYNAMIC, quotient = 202.0
+[Functional]: name = pxHYG9WVZw  year = 2010  popularity = 91.86 lazy calculation = False legacy = DYNAMIC, quotient = 201.0
+[ObjectOriented]: name = lQx8lrnojr  year = 1986  popularity = 1.37 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 198.6
+[ObjectOriented]: name = kSr64cqUVZ  year = 2015  popularity = 74.24 abstract variables = False legacy = Legacy.SINGLE, quotient = 201.5
+[Functional]: name = WDDWmcVlgg  year = 1977  popularity = 58.29 lazy calculation = True legacy = STRICT, quotient = 197.7
+[Functional]: name = kuqkbiZa7F  year = 1970  popularity = 96.79 lazy calculation = False legacy = DYNAMIC, quotient = 197.0
+[ObjectOriented]: name = glVRRqmx1L  year = 1970  popularity = 62.84 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 197.0
+[Functional]: name = WVn43ja82t  year = 2002  popularity = 32.42 lazy calculation = False legacy = STRICT, quotient = 200.2
+[ObjectOriented]: name = u8O3uKi2F1  year = 1968  popularity = 14.61 abstract variables = False legacy = Legacy.SINGLE, quotient = 196.8
+[ObjectOriented]: name = 6l4N12eh2T  year = 2008  popularity = 54.26 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 200.8
+[ObjectOriented]: name = QGi6lLPkeZ  year = 1959  popularity = 91.52 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 195.9
+[ObjectOriented]: name = olHbKSefiI  year = 1998  popularity = 9.64 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 199.8
+[ObjectOriented]: name = tJufuIZ5wQ  year = 1956  popularity = 68.67 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 195.6
+[Functional]: name = hhIuxUN27b  year = 1946  popularity = 40.58 lazy calculation = True legacy = DYNAMIC, quotient = 194.6
+[Functional]: name = SMSDtVQtn3  year = 1967  popularity = 24.37 lazy calculation = False legacy = STRICT, quotient = 196.7
+[ObjectOriented]: name = U7oUNlvbSQ  year = 2012  popularity = 63.63 abstract variables = False legacy = Legacy.SINGLE, quotient = 201.2
+[Procedural]: name = bkWEH72jje  year = 1965  popularity = 36.44 abstract variables = True, quotient = 196.5
+[Functional]: name = LGH1sEiXCd  year = 1992  popularity = 13.05 lazy calculation = True legacy = DYNAMIC, quotient = 199.2
+[ObjectOriented]: name = goEFvife5j  year = 1990  popularity = 51.22 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 199.0
+[Procedural]: name = teiBbF4Fkc  year = 1956  popularity = 16.28 abstract variables = True, quotient = 195.6
+[ObjectOriented]: name = 6fGKi5e4Xq  year = 1997  popularity = 13.56 abstract variables = True legacy = Legacy.SINGLE, quotient = 199.7
+[Functional]: name = EuU1g9YrPR  year = 2015  popularity = 37.99 lazy calculation = True legacy = STRICT, quotient = 201.5
+[ObjectOriented]: name = rgdVpXuAgi  year = 2016  popularity = 55.95 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 201.6
+[Functional]: name = 4CRSaOdSjQ  year = 2011  popularity = 72.9 lazy calculation = True legacy = STRICT, quotient = 201.1
+[Procedural]: name = Ha1dqtDcCd  year = 1983  popularity = 59.01 abstract variables = False, quotient = 198.3
+[ObjectOriented]: name = sJlDpmTUpg  year = 1964  popularity = 50.82 abstract variables = False legacy = Legacy.MULTIPLE, quotient = 196.4
+[Procedural]: name = ZhFrjflmt5  year = 2020  popularity = 64.22 abstract variables = True, quotient = 202.0
+[Procedural]: name = mfvhxrTcVW  year = 1962  popularity = 4.7 abstract variables = False, quotient = 196.2
+[Functional]: name = T8gmfvEDcu  year = 1947  popularity = 75.35 lazy calculation = True legacy = DYNAMIC, quotient = 194.7
+[ObjectOriented]: name = sbUKsn1jQI  year = 2006  popularity = 75.19 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 200.6
+[Procedural]: name = 84AVIAPMv9  year = 1982  popularity = 62.1 abstract variables = True, quotient = 198.2
+[Procedural]: name = x7xHxRBsQE  year = 1951  popularity = 62.38 abstract variables = True, quotient = 195.1
+

@@ -1,0 +1,7 @@
+Container is store 5 languages:
+[Functional]: name = 3tF88coxhI  year = 2020  popularity = 56.78 lazy calculation = True legacy = DYNAMIC, quotient = 202.0
+[Procedural]: name = G2THmSHhMI  year = 1960  popularity = 86.04 abstract variables = True, quotient = 196.0
+[ObjectOriented]: name = GXeuuumOV2  year = 2006  popularity = 5.38 abstract variables = True legacy = Legacy.MULTIPLE, quotient = 200.6
+[ObjectOriented]: name = ZKn3rFNfho  year = 1972  popularity = 37.19 abstract variables = True legacy = Legacy.SINGLE, quotient = 197.2
+[Procedural]: name = opToC5P4lV  year = 2006  popularity = 75.7 abstract variables = True, quotient = 200.6
+

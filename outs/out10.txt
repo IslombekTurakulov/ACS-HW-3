@@ -1,0 +1,12 @@
+Container is store 10 languages:
+[Procedural]: name = VOqEX8OAw5  year = 2018  popularity = 23.71 abstract variables = True, quotient = 201.8
+[ObjectOriented]: name = JdnX3ihnjj  year = 1964  popularity = 18.55 abstract variables = False legacy = Legacy.SINGLE, quotient = 196.4
+[Procedural]: name = S7pr2jouAT  year = 2003  popularity = 32.48 abstract variables = False, quotient = 200.3
+[Procedural]: name = vammREfuLI  year = 2009  popularity = 53.58 abstract variables = False, quotient = 200.9
+[Functional]: name = 7IMRpqjX2c  year = 1981  popularity = 29.64 lazy calculation = True legacy = STRICT, quotient = 198.1
+[Procedural]: name = pfIk5bqAan  year = 1972  popularity = 79.22 abstract variables = False, quotient = 197.2
+[Functional]: name = 5m9oUVrqLX  year = 2015  popularity = 29.11 lazy calculation = True legacy = STRICT, quotient = 201.5
+[Functional]: name = aVRxHvQWpv  year = 2013  popularity = 4.12 lazy calculation = True legacy = STRICT, quotient = 201.3
+[Procedural]: name = LDbKNsHKLb  year = 1978  popularity = 98.51 abstract variables = False, quotient = 197.8
+[Functional]: name = P2JTnnBPP9  year = 1959  popularity = 32.34 lazy calculation = False legacy = DYNAMIC, quotient = 195.9
+
