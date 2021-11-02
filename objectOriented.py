@@ -29,7 +29,7 @@ class ObjectOriented(languages.Languages):
         self.has_abstract_variables = False
         self.legacy = Legacy
 
-    def read_line(self, str_line_array, i):
+    def read_in(self, str_line_array, i):
         """
             Чтение строки
             :param str_line_array: массив строк

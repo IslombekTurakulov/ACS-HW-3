@@ -1,5 +1,5 @@
 class Languages:
-    def read_line(self, str_array, i):
+    def read_in(self, str_array, i):
         """
         Чтение строки
         :param str_array: массив строк

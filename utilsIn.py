@@ -14,33 +14,29 @@ def inLines(container, str_array):
     """
     array_len = len(str_array)
     i = 0  # Индекс, задающий текущую строку в массиве
-    fig_num = 0
+    count = 0
     while i < array_len:
         line = str_array[i]
-        key = int(line)  # преобразование в целое
-        # print("key = ", key)
-        if key == 1:  # признак прямоугольника
+        key = int(line)
+        if key == 1:
             i += 1
             shape = Functional()
-            i = shape.read_line(str_array, i)  # чтение функционального языка с возвратом позиции за ним
-        elif key == 2:  # признак треугольника
+            i = shape.read_in(str_array, i)
+        elif key == 2:
             i += 1
             shape = ObjectOriented()
-            i = shape.read_line(str_array, i)  # чтение ооп языка с возвратом позиции за ним
+            i = shape.read_in(str_array, i)
         elif key == 3:
             i += 1
             shape = Procedural()
-            i = shape.read_line(str_array, i)
+            i = shape.read_in(str_array, i)
         else:
-            # что-то пошло не так. Должен быть известный признак
-            # Возврат количества прочитанных фигур
-            return fig_num
-        # Количество пробелами фигур увеличивается на 1
+            return count
         if i == 0:
-            return fig_num
-        fig_num += 1
+            return count
+        count += 1
         container.store.append(shape)
-    return fig_num
+    return count
 
 
 def inRnd():

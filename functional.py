@@ -27,7 +27,7 @@ class Functional(languages.Languages):
         self.lazy_calculation = False
         self.legacy = Legacy
 
-    def read_line(self, str_line_array, i):
+    def read_in(self, str_line_array, i):
         """
         Чтение строки
         :param str_line_array: массив строк
