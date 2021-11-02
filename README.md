@@ -45,6 +45,9 @@ Selection). В качестве ключей для сортировки и др
 ```
 python <name>.py
 python3 <name>.py
+
+python -f <input_file> <outputfile1> <outputfile2>
+python -n <numbers> <outputfile1> <outputfile2>
 ```
 
 Исполняемый файл программы будет расположен в папке `venv`.
@@ -163,4 +166,4 @@ Linux DESKTOP-250N7G3 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:4
 Использовал входной файл `functional.txt` в папке `./tests/`.
 Выходные данные находятся [здесь](./outs/functional.out.txt), отсортированные данные [здесь](./outs/functional_sorted.txt)
 
-![Использование файла functional.txt](./reports/fileFunctional_memory.png "Использование входных данных объекта Functional")
+![Использование файла functional.txt](./reports/functional_memory.png "Использование входных данных объекта Functional")
