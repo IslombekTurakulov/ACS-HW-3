@@ -167,3 +167,8 @@ Linux DESKTOP-250N7G3 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:4
 Выходные данные находятся [здесь](./outs/functional.out.txt), отсортированные данные [здесь](./outs/functional_sorted.txt)
 
 ![Использование файла functional.txt](./reports/functional_memory.png "Использование входных данных объекта Functional")
+
+Использовал входной файл `mixed.txt` в папке `./tests/`.
+Выходные данные находятся [здесь](./outs/mixed.out.txt), отсортированные данные [здесь](./outs/mixed_sorted.txt)
+
+![Использование файла mixed.txt](./reports/mixed_memory.png "Использование входных данных разных объектов")
